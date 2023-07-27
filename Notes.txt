@@ -1,0 +1,14 @@
+JAVASCRIPT BASICS
+
+SYNTAX:
+
+alert('message'); // pops up the message
+
+document.body.innerHTML = 'hello'; //modifies the webpage, replaces the page with hello
+
+NUMBERS & MATH:
+
+- percentages- to be calculated manually
+- Math.round(1.2) //rounding off a number
+- automatic conversion
+- template string(``)-interpolation //inserts a value directly into a string
